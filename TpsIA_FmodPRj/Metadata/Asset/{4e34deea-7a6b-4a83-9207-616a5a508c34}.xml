@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{4e34deea-7a6b-4a83-9207-616a5a508c34}">
+		<property name="assetPath">
+			<value>BackSounds/SFx/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ae5951e7-3ee8-4fd6-a3f3-86260d338fb9}</destination>
+		</relationship>
+	</object>
+</objects>
