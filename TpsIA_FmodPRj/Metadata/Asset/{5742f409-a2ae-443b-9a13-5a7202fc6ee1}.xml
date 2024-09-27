@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{5742f409-a2ae-443b-9a13-5a7202fc6ee1}">
+		<property name="assetPath">
+			<value>BackSounds/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ae5951e7-3ee8-4fd6-a3f3-86260d338fb9}</destination>
+		</relationship>
+	</object>
+</objects>

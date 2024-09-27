@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c3ed21f9-afc7-4079-a0ef-0e4d912905d1}">
+		<property name="assetPath">
+			<value>BackSounds/SFx/backroom2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.891655328798187</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ae5951e7-3ee8-4fd6-a3f3-86260d338fb9}</destination>
+		</relationship>
+	</object>
+</objects>
